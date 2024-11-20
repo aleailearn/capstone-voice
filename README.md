@@ -1,4 +1,4 @@
-Capstone Voice Processing
+#Capstone Voice Processing
 Proyek ini bertujuan untuk memproses data suara dari dataset Common Voice untuk keperluan normalisasi audio dan penggunaan data teks (TSV) dalam analisis lanjutan. Proses normalisasi memastikan konsistensi suara sebelum digunakan dalam aplikasi InstaHelp.
 
 Fitur Utama
